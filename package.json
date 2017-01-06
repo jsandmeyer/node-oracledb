@@ -1,7 +1,7 @@
 {
   "name": "oracledb-pb",
   "version": "1.12.2",
-  "description": "Oracle Database driver by Oracle Corp.",
+  "description": "Prebuilt Oracle Database driver",
   "license": "Apache-2.0",
   "homepage": "http://www.oracle.com/technetwork/database/database-technologies/scripting-languages/node_js/",
   "keywords": [
@@ -22,11 +22,12 @@
     "binding",
     "interface",
     "adapter",
-    "module"
+    "module",
+    "PreBuilt"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bchr02/node-oracledb.git#oracledb-pb"
+    "url": "git://github.com/bchr02/node-oracledb.git#easy_pb"
   },
   "dependencies": {
     "instantclient": "1.0.x",
@@ -59,11 +60,11 @@
   },
   "maintainers": [
     {
-      "name": "Oracle Corp."
+      "name": "Bill Christo"
     }
   ],
   "bugs": {
-    "url": "https://github.com/oracle/node-oracledb/issues"
+    "url": "https://github.com/bchr02/node-oracledb/issues"
   },
   "main": "./index.js"
 }
