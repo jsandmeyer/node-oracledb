@@ -1,5 +1,5 @@
 {
-  "name": "oracledb",
+  "name": "oracledb-pb",
   "version": "1.12.2",
   "description": "Oracle Database driver by Oracle Corp.",
   "license": "Apache-2.0",
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/oracle/node-oracledb.git"
+    "url": "git://github.com/bchr02/node-oracledb.git#oracledb-pb"
   },
   "dependencies": {
     "instantclient": "1.0.x",
