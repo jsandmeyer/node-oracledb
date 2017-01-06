@@ -29,6 +29,7 @@
     "url": "git://github.com/oracle/node-oracledb.git"
   },
   "dependencies": {
+    "instantclient": "1.0.x",
     "node-pre-gyp": "0.6.x",
     "nan": "~2.4.0"
   },
