@@ -1,6 +1,6 @@
 {
   "name": "oracledb-pb",
-  "version": "1.12.2",
+  "version": "1.12.2-pb0.0.1",
   "description": "Prebuilt Oracle Database driver",
   "license": "Apache-2.0",
   "homepage": "http://www.oracle.com/technetwork/database/database-technologies/scripting-languages/node_js/",
